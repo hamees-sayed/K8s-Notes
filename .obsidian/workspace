@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "a0108cc9ab808af7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a361a6b8aea7883",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4300f96ccab15456",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7886abded65b0e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da1dc6724b9b35de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4460ad0e79fe8e00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bafb5145a6178d83",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "844fc647cd69f11b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eb257ac9ea3844f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1943c547484f6709",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56ba8b2b27589b6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3527fa286457c421",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "006d521296fdc041",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7a361a6b8aea7883",
+  "lastOpenFiles": [
+    "ReplicaSet.md",
+    "What is Kubernetes?.md",
+    "Volumes.md",
+    "Secrets.md",
+    "ConfigMap.md",
+    "Service.md",
+    "Pods.md",
+    "Ingress.md",
+    "Kubernetes Architecture.md",
+    "K8s Components/Service.md"
+  ]
+}
