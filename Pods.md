@@ -22,7 +22,7 @@ spec:
 	  - containerPort: 8000
 ```
 
-To craete the pod shown above, type: 
+To create the pod shown above, type: 
 ```
 $ kubectl apply -f pod.yml
 ```
