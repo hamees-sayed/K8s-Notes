@@ -29,4 +29,4 @@ So how do Master node, Worker node and all their different components work toget
 
 This is what a typical Kubernetes work flow looks like: 
 
-Master Node -> Worker Nodes -> [[Pods]] -> [[Service]] -> [[Ingress]] -> [[ConfigMap]] -> [[Secrets]] -> [[Volumes]] -> [[ReplicaSet]] 
+Master Node -> Worker Nodes -> Pods -> Service -> Ingress -> ConfigMap -> Secrets -> Volumes -> ReplicaSet 
