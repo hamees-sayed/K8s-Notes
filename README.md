@@ -1,3 +1,3 @@
 # K8s-Notes
 
-Install obsidian to get a better look at the notes.
+My k8s learning notes on obsidian
